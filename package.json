@@ -25,6 +25,7 @@
     "flags": "~0.1.3",
     "ip": "1.1.0",
     "nicercast": "0.1.0",
+    "serve-favicon": "2.3.0",
     "nodetunes": "git://github.com/microadam/nodetunes.git#d27f45e159ce1e2c09582c652204d6ad8e0af150",
     "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
   },
